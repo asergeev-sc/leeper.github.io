@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Teaching - Thomas J. Leeper
+layout: page
+title: Teaching
 permalink: /teaching.html
 ---
 
