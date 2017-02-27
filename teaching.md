@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching
+title: Teaching and Pedagogy
 permalink: /teaching.html
 ---
 
@@ -10,31 +10,44 @@ Political psychologists study people. We want to know how people think, act, and
 
 *[Click here](cv/TeachingStatement.pdf) to read my full statement of teaching philosophy, or [here](cv/TeachingPortfolio.pdf) to see my teaching portfolio.*
 
-## Teaching Experience: Term-length Courses
+## Term-length Courses Teaching
 
-| Role | Course | Level/Location |
-| ---- | ------ | -------------- |
-| Instructor | Experimental Politics | Bachelor level<br/>London School of Economics and Political Science, 2017/18 |
-| Instructor | [Public Opinion, Political Psychology, and Citizenship](http://www.thomasleeper.com/opinioncourse) | Master level<br/>London School of Economics and Political Science, 2016-Present |
-| Instructor | [Research Design in Political Science](http://www.thomasleeper.com/designcourse) | Bachelor level<br/>London School of Economics, 2015 - Present |
-| Co-Instructor with David Hendry | [Quantitative Political Analysis](http://www.thomasleeper.com/regcourse) | Master/Doctoral level<br/>Aarhus University, 2015|
-| Instructor | [Using Surveys for Research and Evaluation](http://www.thomasleeper.com/surveycourse) | Master level<br/>Aarhus University, 2014 |
-| Instructor | [Issues in American Politics and Government](http://www.thomasleeper.com/ampolcourse) | Master level<br/>Aarhus University, 2014 |
-| Instructor | [Experimentation and Causal Inference](http://www.thomasleeper.com/expcourse) | Master level<br/>Aarhus University, 2014 |
-| Co-Instructor with [Kim Sønderskov](http://pure.au.dk/portal/en/ks@ps.au.dk) | Quantitative Political Analysis | Master/Doctoral level<br/>Aarhus University, 2014|
-| Instructor | [Does Public Opinion Matter?](http://www.thomasleeper.com/opinioncourse) | Master level<br/>Aarhus University, 2013 |
-| Teaching Assistant for [Jay Seawright](http://www.polisci.northwestern.edu/people/seawright.html) | Statistical Research Methods | Bachelor level<br/>Northwestern University, 2011|
-| Teaching Assistant for [Jim Mahoney](http://www.jamesmahoney.org/) | Methods of Political Inference | Bachelor level<br/>Northwestern University, 2011 |
-| Teaching Assistant for [Chris Galdieri](http://www.tc.umn.edu/~galdieri/) | Political Psychology of Mass Behavior | Bachelor level<br/>University of Minnesota, 2007|
+**Experimental Politics**
 
-## Teaching Experience: Workshops and Short Courses
+ - Last taught: 2017/18
+ - Level: Bachelor
+ - Institution: London School of Economics and Political Science
+     
+[**Public Opinion, Political Psychology, and Citizenship**](http://www.thomasleeper.com/opinioncourse)
 
-| Role | Course | Level/Location |
-| ---- | ------ | -------------- |
-| Instructor | [Survey Experiments in Practice](http://www.thomasleeper.com/surveyexpcourse) | PhD/Faculty<br/>Barcelona Summer School in Survey Methodology, 2016-Present |
-| Instructor | [Producing Reproducible Research](http://www.thomasleeper.com/rrcourse) | PhD/Faculty<br/>Nottingham University, 2016 |
-| Instructor | [Survey Experiments in Practice](http://www.thomasleeper.com/surveyexpcourse) | PhD/Faculty<br/>NTNU, Trondheim, Norway, 2017 |
-| Instructor | [Survey Experiments in Practice](http://www.thomasleeper.com/surveyexpcourse) | PhD/Faculty<br/>European University Institute, 2017 |
-| Instructor | [Online Surveys and Survey Experiments](http://thomasleeper.com/websurveycourse/) | PhD/Faculty<br/>European University Institute, 2015 |
-| Instructor | [Producing Reproducible Research](http://www.thomasleeper.com/rrcourse) | PhD/Faculty<br/>Aarhus University, 2014 |
-| Instructor | [Introduction to R](http://www.thomasleeper.com/Rcourse) | PhD/Faculty<br/>Aarhus University, 2013 |
+ - Last taught: 2016/17
+ - Level: Master
+ - Institution: London School of Economics and Political Science
+
+[**Research Design in Political Science**](http://www.thomasleeper.com/designcourse)
+ 
+ - Last taught: 2016/17
+ - Level: Bachelor
+ - Institution: London School of Economics and Political Science
+
+**Previous Courses**
+ 
+ - [Quantitative Political Analysis](http://www.thomasleeper.com/regcourse), Master/Doctoral level, Aarhus University (2015) with David Hendry
+ - [Using Surveys for Research and Evaluation](http://www.thomasleeper.com/surveycourse), Master level, Aarhus University (2014)
+ - [Issues in American Politics and Government](http://www.thomasleeper.com/ampolcourse), Master level, Aarhus University (2014)
+ - [Experimentation and Causal Inference](http://www.thomasleeper.com/expcourse), Master level, Aarhus University (2014)
+ - Quantitative Political Analysis, Master/Doctoral level, Aarhus University (2014) with [Kim Sønderskov](http://pure.au.dk/portal/en/ks@ps.au.dk)
+ - [Does Public Opinion Matter?](http://www.thomasleeper.com/opinioncourse), Master level, Aarhus University (2013)
+ - Statistical Research Methods, Bachelor level, Northwestern University (2011) - TA for [Jay Seawright](http://www.polisci.northwestern.edu/people/seawright.html)
+ - Methods of Political Inference, Bachelor level, Northwestern University (2011) - TA for [Jim Mahoney](http://www.jamesmahoney.org/)
+ - Political Psychology of Mass Behavior, Bachelor level, University of Minnesota (2007) - TA for [Chris Galdieri](http://www.tc.umn.edu/~galdieri/)
+
+## Workshops and Short Courses
+
+ - [Survey Experiments in Practice](http://www.thomasleeper.com/surveyexpcourse), PhD/Faculty level, Barcelona Summer School in Survey Methodology (2016-Present)
+ - [Producing Reproducible Research](http://www.thomasleeper.com/rrcourse), PhD/Faculty level, Nottingham University (2016)
+ - [Survey Experiments in Practice](http://www.thomasleeper.com/surveyexpcourse), PhD/Faculty level, NTNU, Trondheim, Norway (2017)
+ - [Survey Experiments in Practice](http://www.thomasleeper.com/surveyexpcourse), PhD/Faculty level, European University Institute (2017)
+ - [Online Surveys and Survey Experiments](http://thomasleeper.com/websurveycourse/), PhD/Faculty level, European University Institute (2015)
+ - [Producing Reproducible Research](http://www.thomasleeper.com/rrcourse), PhD/Faculty level, Aarhus University (2014)
+ - [Introduction to R](http://www.thomasleeper.com/Rcourse), PhD/Faculty level, Aarhus University (2013)
