@@ -6,8 +6,8 @@ bio:                '<a href="http://www.lse.ac.uk/government/whosWho/Academic%2
 description:        'Assistant Professor in Political Behaviour<br />Government Department<br />London School of Economics and Political Science'
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.jpg'
-background:         'assets/img/canterbury.JPG'
+logo:               'assets/img/thomas2016.jpg'
+background:         'assets/img/canterbury.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                http://www.thomasleeper.com
@@ -73,4 +73,4 @@ gems:
 #  - jekyll-gist
 
 # Exclude list
-exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, LICENSE, Rakefile]
