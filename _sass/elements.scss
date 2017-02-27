@@ -13,8 +13,8 @@
     }
 }
 .social-btn {
-    padding: 10px;
-    margin: 10px;
+    padding: 5px;
+    margin: 5px;
     @extend %btnextend;
 }
 .btn {
@@ -129,12 +129,6 @@ img {
 .image-right {
     float: right;
     margin-left: 1em;
-    margin-top: 0;
-}
-.image-cc-by {
-    display: inline;
-    margin-left: 1em;
-    border-width: 0;
     margin-top: 0;
 }
 figure {

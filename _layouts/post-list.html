@@ -56,6 +56,8 @@ layout: compress
                     <li><a href="{{ site.url }}/tags.html#{{ this_word }}" class="tag"><span class="term">{{ this_word }}</span> <span class="count">{{ site.tags[this_word].size }}</span></a></li>
                   {% endunless %}{% endfor %}
                 </ul>
+                {% include cc-by.html %}
+                {% include share-button.html %}
             </div>
         </div>
     </header>
