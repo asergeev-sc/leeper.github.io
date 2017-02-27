@@ -186,11 +186,11 @@ header .entry-meta {
     text-align: left;
 }
 .social-share {
-    display: block;
+    //display: block;
     margin-top: 1rem;
     width: 30%;
     float: right;
-    text-align: right;
+    text-align: center;
 }
 .feature {
     @include transition(.5s);
